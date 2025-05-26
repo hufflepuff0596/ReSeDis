@@ -2,6 +2,9 @@
 
 **ReSeDis: A Benchmark for Referring-based Object Search across Large-Scale Image Collections
 
+🔗 [**Supplementary Material**]([https://your-link-here.com](https://drive.google.com/file/d/1Xhdhx7QKX1XvxI-xbCd6-jYVL7sei5js/view?usp=sharing))
+
+
 ![Samples from ReSeDis](assets/rosd.png)
 
 **ReSeDis** is a dataset for Refering Search and Discovery task to evaluate the ability of models to search for referred objects across a large image collection. It contains 7,088 images from MSCOCO and 9,664 referring expression. 
