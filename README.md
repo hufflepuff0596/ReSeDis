@@ -2,7 +2,7 @@
 
 **ReSeDis: A Benchmark for Referring-based Object Search across Large-Scale Image Collections
 
-🔗 [**Supplementary Material**]([https://your-link-here.com](https://drive.google.com/file/d/1Xhdhx7QKX1XvxI-xbCd6-jYVL7sei5js/view?usp=sharing))
+🔗 [**Supplementary Material**](https://drive.google.com/file/d/1Xhdhx7QKX1XvxI-xbCd6-jYVL7sei5js/view?usp=sharing)
 
 
 ![Samples from ReSeDis](assets/rosd.png)
